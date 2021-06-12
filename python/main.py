@@ -9,6 +9,8 @@
 #                                                  \|_________|                                                    |__|/ \|__|  #
 #################################################################################################################################
 
+# Author : A.L Mitroi
+
 # Import random for create a random int with the name "juste_prix"
 from random import randint
 
