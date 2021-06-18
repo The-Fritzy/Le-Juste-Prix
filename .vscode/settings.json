@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.twig": "html",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "iostream": "cpp"
     }
 }
