@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.twig": "html",
+        "stdlib.h": "c"
+    }
+}
